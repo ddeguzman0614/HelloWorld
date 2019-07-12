@@ -7,3 +7,6 @@ As a System Admin my knowledge base is always improving by reading books and wor
 
 ## My Hobbies
 I like to fix cars, play video games, hang out with friends, and most of all spend quality time with family. 
+
+## Favorite Book
+SpiderMan
