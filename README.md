@@ -1,3 +1,4 @@
+![Headshot](pexels-photo.jpg)
 # A life of Davis
 Hi, i'm new to Github learning how to code using this tool and community.
 
