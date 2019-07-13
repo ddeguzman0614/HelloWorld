@@ -12,3 +12,6 @@ I like to fix cars, play video games, hang out with friends, and most of all spe
 Avengers, Disney, AutoWeek.
 
 ![Headshot](AWS-Logo.jpg)
+
+## References
+Github.com and Github for Dummies Book.
