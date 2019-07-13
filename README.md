@@ -10,3 +10,5 @@ I like to fix cars, play video games, hang out with friends, and most of all spe
 
 ## Favorite Book
 Avengers, Disney, AutoWeek.
+
+![Headshot](AWS-Logo.jpg)
